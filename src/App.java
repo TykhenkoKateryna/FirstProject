@@ -10,7 +10,7 @@ public class App {
         String line = input.nextLine();
         //Tell them what they entered
         System.out.println("You entered: "+ line);
-
+//test
         Scanner input1 = new Scanner(System.in);
         //Output the prompt
         System.out.println("Enter an integer:");
